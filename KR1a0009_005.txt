@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易口訣義
-#+DATE: 2015-09-23 09:34:12
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:53:31.148904
+#+PROPERTY: ID KR1a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五
 <pb:KR1a0009_WYG_005-1a>¶
 欽定四庫全書¶
 　周易口訣義卷五　　　　唐　史徴　撰¶
@@ -672,4 +674,3 @@
 　故曰口無擇言言有倫序所以悔亡故曰言有序悔¶
 　亡也上九敦艮吉者敦厚也居止之極敦厚在上不¶
 　為妄累所牽故獲吉也¶
-

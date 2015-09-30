@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易口訣義
-#+DATE: 2015-09-23 09:34:12
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:53:31.125782
+#+PROPERTY: ID KR1a0009
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0009_WYG_004-1a>¶
 欽定四庫全書¶
 　周易口訣義卷四　　　　唐　史徴　撰¶
@@ -542,4 +544,3 @@
 　也¶
 　¶
 　周易口訣義卷四¶
-
